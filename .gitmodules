@@ -1,69 +1,69 @@
 [submodule "bundle/ag"]
 	path = bundle/ag
-	url = git@github.com:ervandew/ag.git
+	url = http://github.com/ervandew/ag.git
 [submodule "bundle/ctrlp.vim"]
 	path = bundle/ctrlp.vim
-	url = git@github.com:kien/ctrlp.vim.git
+	url = http://github.com/kien/ctrlp.vim.git
 [submodule "bundle/emmet-vim"]
 	path = bundle/emmet-vim
-	url = git@github.com:mattn/emmet-vim.git
+	url = http://github.com/mattn/emmet-vim.git
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
-	url = git@github.com:scrooloose/nerdtree.git
+	url = http://github.com/scrooloose/nerdtree.git
 [submodule "bundle/powerline-fonts"]
 	path = bundle/powerline-fonts
-	url = git@github.com:powerline/fonts.git
+	url = http://github.com/powerline/fonts.git
 [submodule "bundle/vim-airline"]
 	path = bundle/vim-airline
-	url = git@github.com:bling/vim-airline.git
+	url = http://github.com/bling/vim-airline.git
 [submodule "bundle/vim-bundler"]
 	path = bundle/vim-bundler
-	url = git@github.com:tpope/vim-bundler.git
+	url = http://github.com/tpope/vim-bundler.git
 [submodule "bundle/vim-coffee-script"]
 	path = bundle/vim-coffee-script
-	url = git@github.com:kchmck/vim-coffee-script.git
+	url = http://github.com/kchmck/vim-coffee-script.git
 [submodule "bundle/vim-commentary"]
 	path = bundle/vim-commentary
-	url = git@github.com:tpope/vim-commentary.git
+	url = http://github.com/tpope/vim-commentary.git
 [submodule "bundle/vim-fugitive"]
 	path = bundle/vim-fugitive
-	url = git@github.com:tpope/vim-fugitive.git
+	url = http://github.com/tpope/vim-fugitive.git
 [submodule "bundle/vim-go"]
 	path = bundle/vim-go
-	url = git@github.com:fatih/vim-go.git
+	url = http://github.com/fatih/vim-go.git
 [submodule "bundle/vim-monokai"]
 	path = bundle/vim-monokai
-	url = git@github.com:sickill/vim-monokai.git
+	url = http://github.com/sickill/vim-monokai.git
 [submodule "bundle/vim-multiple-cursors"]
 	path = bundle/vim-multiple-cursors
-	url = git@github.com:terryma/vim-multiple-cursors.git
+	url = http://github.com/terryma/vim-multiple-cursors.git
 [submodule "bundle/vim-mustache-handlebars"]
 	path = bundle/vim-mustache-handlebars
-	url = git@github.com:mustache/vim-mustache-handlebars.git
+	url = http://github.com/mustache/vim-mustache-handlebars.git
 [submodule "bundle/vim-rails"]
 	path = bundle/vim-rails
-	url = git@github.com:tpope/vim-rails.git
+	url = http://github.com/tpope/vim-rails.git
 [submodule "bundle/vim-rspec"]
 	path = bundle/vim-rspec
-	url = git@github.com:thoughtbot/vim-rspec.git
+	url = http://github.com/thoughtbot/vim-rspec.git
 [submodule "bundle/vim-ruby"]
 	path = bundle/vim-ruby
-	url = git@github.com:vim-ruby/vim-ruby.git
+	url = http://github.com/vim-ruby/vim-ruby.git
 [submodule "bundle/vim-rvm"]
 	path = bundle/vim-rvm
-	url = git@github.com:tpope/vim-rvm.git
+	url = http://github.com/tpope/vim-rvm.git
 [submodule "bundle/vim-slim"]
 	path = bundle/vim-slim
-	url = git@github.com:slim-template/vim-slim.git
+	url = http://github.com/slim-template/vim-slim.git
 [submodule "bundle/vim-nerdtree-tabs"]
 	path = bundle/vim-nerdtree-tabs
 	url = https://github.com/jistr/vim-nerdtree-tabs.git
 [submodule "bundle/ack.vim"]
 	path = bundle/ack.vim
-	url = git@github.com:mileszs/ack.vim.git
+	url = http://github.com/mileszs/ack.vim.git
 [submodule "bundle/vim-dispatch"]
 	path = bundle/vim-dispatch
 	url = https://github.com/tpope/vim-dispatch.git
 [submodule "bundle/scss-syntax"]
 	path = bundle/scss-syntax
-	url = git@github.com:cakebaker/scss-syntax.vim.git
+	url = http://github.com/cakebaker/scss-syntax.vim.git
